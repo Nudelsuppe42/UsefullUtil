@@ -1,0 +1,8 @@
+name: Usefullutil
+version: 0.1
+main: de.nudelsuppe.usefullutil.Main
+api-version: 1.16
+authors: [ Nudelsuppe_42_ ]
+description: All kind of usefull Things for Servers, such as Commands and other things
+website: buildtheearth.net
+commands:
